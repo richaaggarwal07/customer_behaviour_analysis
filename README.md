@@ -117,6 +117,8 @@ Final conclusions and recommendations.
 **📊 Dashboard**
 
 The Power BI dashboard provides an interactive view of the analyzed data, helping users understand key performance indicators, trends, patterns, and important metrics.
+Dashboard preview
+(Images/dashboard_img.png)
 
 
 **📈 Key Results & Insights**
