@@ -2,7 +2,7 @@
 Data Analytics project showcasing customer behaviour analysis using Python, SQL, Power BI
 
 
-**📊 End-to-End Data Analytics Project
+**📊 End-to-End Data Analytics Project**
 
 📌 Overview**
 
