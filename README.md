@@ -2,7 +2,7 @@
 Data Analytics project showcasing customer behaviour analysis using Python, SQL, Power BI
 
 
-**📊 End-to-End Data Analytics Project**
+## 📊 End-to-End Data Analytics Project
 
 📌 Overview**
 
@@ -10,7 +10,7 @@ This project demonstrates a complete End-to-End Data Analytics Workflow, coverin
 
 The objective is to transform raw data into meaningful insights using Python, SQL, and Power BI, enabling data-driven decision-making and effective business communication.
 
-**🎯 Project Objectives**
+## 🎯 Project Objectives
 
 Load and understand datasets using Python.
 Perform Exploratory Data Analysis (EDA).
@@ -20,17 +20,17 @@ Build an interactive Power BI dashboard.
 Generate a comprehensive analytical report.
 Create a professional presentation using Gamma.
 
-**📂 Dataset**
+## 📂 Dataset
 
 The project uses a structured dataset containing relevant information for analysis.
 
-**Dataset Details:**
+## Dataset Details:
 
 Dataset Name: customer_shopping_behavior.csv
 Data Format: CSV / Excel
 Description: Contains raw data used for exploration, cleaning, analysis, and visualization.
 
-**🛠️ Tools & Technologies**
+## 🛠️ Tools & Technologies
 
 Tool	Purpose
 Python	Data loading and analysis
@@ -44,7 +44,7 @@ Power BI	Interactive dashboards
 Gamma	Report and presentation creation
 Jupyter Notebook	Python development
 
-**🔄 Project Workflow**
+## 🔄 Project Workflow
 
 **1. Data Loading Using Python**
 Imported the dataset using Pandas.
@@ -114,14 +114,13 @@ Key findings and insights.
 Dashboard highlights.
 Final conclusions and recommendations.
 
-**📊 Dashboard**
+## 📊 Dashboard
 
 The Power BI dashboard provides an interactive view of the analyzed data, helping users understand key performance indicators, trends, patterns, and important metrics.
-Dashboard preview
-(Images/dashboard_img.png)
+![Dashboard preview] (Images/dashboard_img.png)
 
 
-**📈 Key Results & Insights**
+## 📈 Key Results & Insights
 
 The project focuses on extracting actionable insights from raw data.
 **Key outcomes include:**
@@ -134,7 +133,7 @@ Development of data-driven business recommendations.
 Clear communication of analytical findings through reports and presentations.
 
 
-**💡 Skills Demonstrated**
+## 💡 Skills Demonstrated
 
 Data Analytics
 Data Cleaning and Preprocessing
@@ -149,13 +148,8 @@ Data Storytelling
 Report Writing
 Presentation Skills
 
-**🚀 Conclusion**
+## 🚀 Conclusion
 
 This project demonstrates the complete data analytics process, starting from raw data collection and preparation to advanced analysis, visualization, and business reporting.
-
 By integrating Python, SQL, Power BI, and Gamma, the project showcases practical analytical skills and the ability to convert raw data into meaningful, actionable insights.
-
-It also highlights the importance of combining technical expertise with effective communication to support data-driven business decisions.
-LinkedIn: [Your LinkedIn Profile]
-
 ⭐ If you find this project useful, feel free to star the repository!
