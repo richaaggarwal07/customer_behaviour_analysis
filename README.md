@@ -3,6 +3,7 @@ Data Analytics project showcasing customer behaviour analysis using Python, SQL,
 
 
 **📊 End-to-End Data Analytics Project
+
 📌 Overview**
 
 This project demonstrates a complete End-to-End Data Analytics Workflow, covering data loading, exploration, cleaning, SQL analysis, dashboard development, reporting, and presentation.
